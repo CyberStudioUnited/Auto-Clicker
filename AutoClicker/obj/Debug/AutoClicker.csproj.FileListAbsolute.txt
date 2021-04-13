@@ -1,0 +1,10 @@
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.AutoClicker.resources
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\Richie\source\repos\Auto-Clicker\AutoClicker\obj\Debug\AutoClicker.pdb
